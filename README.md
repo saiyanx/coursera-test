@@ -1,2 +1,1 @@
-# coursera-test
-Repo for courses
+ECHO is on.
